@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import {
-    Grid,
     Header,
     Icon
 } from 'semantic-ui-react'

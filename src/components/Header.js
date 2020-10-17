@@ -12,8 +12,8 @@ class Header extends Component {
             <div className="container">
                 <Menu>
                     <Container>
-                        <Menu.Item as='a' header> 여행가자 </Menu.Item>
-                        <Menu.Item as='a'> MY PAGE </Menu.Item>
+                        <Menu.Item as='a' header href="/"> 여행가자 </Menu.Item>
+                        <Menu.Item as='a' href="/mypage"> MY PAGE </Menu.Item>
                         <Menu.Item as='a'> write </Menu.Item>
                     </Container>
                 </Menu>
