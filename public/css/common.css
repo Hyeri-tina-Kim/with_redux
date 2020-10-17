@@ -1,0 +1,19 @@
+.container {
+    width: 80%;
+    margin: 0 auto;    
+}
+
+.profileBox {
+    display: flex;
+    padding: 30px;
+    border-bottom: 1px solid #aaa;
+}
+
+.myPostBox {
+    padding: 20px;
+    margin: 0 auto;  
+}
+
+.mr-10 {
+    margin-right: 10px;
+}
